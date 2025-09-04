@@ -1,0 +1,15 @@
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/bin/Debug/net8.0/schaltsjahrAbfrage
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/bin/Debug/net8.0/schaltsjahrAbfrage.deps.json
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/bin/Debug/net8.0/schaltsjahrAbfrage.runtimeconfig.json
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/bin/Debug/net8.0/schaltsjahrAbfrage.dll
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/bin/Debug/net8.0/schaltsjahrAbfrage.pdb
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.AssemblyInfoInputs.cache
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.AssemblyInfo.cs
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.csproj.CoreCompileInputs.cache
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.sourcelink.json
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.dll
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/refint/schaltsjahrAbfrage.dll
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.pdb
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/schaltsjahrAbfrage.genruntimeconfig.cache
+/workspaces/schaldjahrabfrage/schaltsjahrAbfrage/obj/Debug/net8.0/ref/schaltsjahrAbfrage.dll
